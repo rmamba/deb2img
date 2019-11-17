@@ -1,0 +1,2 @@
+FROM raspbian/buster-lite
+APT mc

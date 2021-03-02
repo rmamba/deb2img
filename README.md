@@ -1,2 +1,2 @@
 # deb2img
-testing...
+This offers raspbian with preinstalled midnight commander.
